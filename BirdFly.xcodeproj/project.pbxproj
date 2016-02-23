@@ -13,6 +13,13 @@
 		8D13E8E91C7C3E9700628C50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8E71C7C3E9700628C50 /* Main.storyboard */; };
 		8D13E8EB1C7C3E9700628C50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8EA1C7C3E9700628C50 /* Assets.xcassets */; };
 		8D13E8EE1C7C3E9700628C50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8EC1C7C3E9700628C50 /* LaunchScreen.storyboard */; };
+		8D13E8FC1C7C3EC100628C50 /* bird0.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8F51C7C3EC100628C50 /* bird0.png */; };
+		8D13E8FD1C7C3EC100628C50 /* bird1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8F61C7C3EC100628C50 /* bird1.png */; };
+		8D13E8FE1C7C3EC100628C50 /* bird2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8F71C7C3EC100628C50 /* bird2.png */; };
+		8D13E8FF1C7C3EC100628C50 /* bird3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8F81C7C3EC100628C50 /* bird3.png */; };
+		8D13E9001C7C3EC100628C50 /* bird4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8F91C7C3EC100628C50 /* bird4.png */; };
+		8D13E9011C7C3EC100628C50 /* bird5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8FA1C7C3EC100628C50 /* bird5.png */; };
+		8D13E9021C7C3EC100628C50 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8D13E8FB1C7C3EC100628C50 /* jungle.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +33,13 @@
 		8D13E8EA1C7C3E9700628C50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D13E8ED1C7C3E9700628C50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D13E8EF1C7C3E9700628C50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D13E8F51C7C3EC100628C50 /* bird0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird0.png; sourceTree = "<group>"; };
+		8D13E8F61C7C3EC100628C50 /* bird1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird1.png; sourceTree = "<group>"; };
+		8D13E8F71C7C3EC100628C50 /* bird2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird2.png; sourceTree = "<group>"; };
+		8D13E8F81C7C3EC100628C50 /* bird3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird3.png; sourceTree = "<group>"; };
+		8D13E8F91C7C3EC100628C50 /* bird4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird4.png; sourceTree = "<group>"; };
+		8D13E8FA1C7C3EC100628C50 /* bird5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird5.png; sourceTree = "<group>"; };
+		8D13E8FB1C7C3EC100628C50 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,13 @@
 		8D13E8DD1C7C3E9700628C50 /* BirdFly */ = {
 			isa = PBXGroup;
 			children = (
+				8D13E8F51C7C3EC100628C50 /* bird0.png */,
+				8D13E8F61C7C3EC100628C50 /* bird1.png */,
+				8D13E8F71C7C3EC100628C50 /* bird2.png */,
+				8D13E8F81C7C3EC100628C50 /* bird3.png */,
+				8D13E8F91C7C3EC100628C50 /* bird4.png */,
+				8D13E8FA1C7C3EC100628C50 /* bird5.png */,
+				8D13E8FB1C7C3EC100628C50 /* jungle.jpg */,
 				8D13E8E11C7C3E9700628C50 /* AppDelegate.h */,
 				8D13E8E21C7C3E9700628C50 /* AppDelegate.m */,
 				8D13E8E41C7C3E9700628C50 /* ViewController.h */,
@@ -137,9 +158,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D13E8FD1C7C3EC100628C50 /* bird1.png in Resources */,
+				8D13E9001C7C3EC100628C50 /* bird4.png in Resources */,
+				8D13E9011C7C3EC100628C50 /* bird5.png in Resources */,
 				8D13E8EE1C7C3E9700628C50 /* LaunchScreen.storyboard in Resources */,
+				8D13E9021C7C3EC100628C50 /* jungle.jpg in Resources */,
+				8D13E8FC1C7C3EC100628C50 /* bird0.png in Resources */,
 				8D13E8EB1C7C3E9700628C50 /* Assets.xcassets in Resources */,
 				8D13E8E91C7C3E9700628C50 /* Main.storyboard in Resources */,
+				8D13E8FF1C7C3EC100628C50 /* bird3.png in Resources */,
+				8D13E8FE1C7C3EC100628C50 /* bird2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
